@@ -11,6 +11,10 @@
   color: #161616;
   background-color: #F5F6F8;
 }
+.storybook-button--primary:hover {
+  color: #161616;
+  background-color: #b3b6b8;
+}
 .storybook-button--secondary {
   color: #333;
   background-color: transparent;
